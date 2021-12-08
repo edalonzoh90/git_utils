@@ -4,6 +4,8 @@ Commands currently i use in my actual project
 
 | Command | Description |
 | --- | --- |
+| **Rebase** |
+| `git rebase master | Set master as the base branch of the feature |
 | **Merges** |
 | `git reset --hard master` | Sync a branch from other brach |
 | `git push --force` | Force push ignoring incoming changes |
