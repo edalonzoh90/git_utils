@@ -1,5 +1,5 @@
-# git utils
-Commands currently i use in my actual project
+# git cheat sheet
+Commands frequently used
 
 
 | Command | Description |
