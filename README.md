@@ -18,6 +18,9 @@ Commands frequently used
 | `git push origin --tags` | Sincronize more than one tag |
 | `git tag -d r.0624` | Delete local tag |
 | `git push origin --delete r.0624` | Delete remote tag |
+| **Revert** |
+|git revert -n 0ea3372f | revert a commit but the changes stays in local
+
 
 
 
